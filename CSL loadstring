@@ -11,4 +11,4 @@ ________  ________  ___               ________  ________  ________  ___  _______
                                                                                                                                 
 ]]
 
-loadstring(game:HttpGet("https://github.com/mildandsnipah/CSL-scripthub/releases/download/latest/CSL_ScriptHub.txt"))()
+loadstring(game:HttpGet("https://github.com/mildandsnipah/CSL-scripthub/releases/download/v2/CSL_ScriptHub.txt"))()
