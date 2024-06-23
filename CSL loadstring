@@ -1,1 +1,1 @@
-oadstring(game:HttpGet("https://github.com/mildandsnipah/CSL-scripthub/releases/download/latest/CSL_scripthub"))()
+oadstring(game:HttpGet("https://github.com/mildandsnipah/CSL-scripthub/releases/download/latest/CSL_scripthub.txt"))()
